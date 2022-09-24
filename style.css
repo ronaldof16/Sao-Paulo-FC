@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    background: linear-gradient(white, red, black);
+}
+
+.escudo1 {
+    margin: 20px 0 20px 80px;
+    font-size: 80px;
+}
+
+h1 {
+    margin: 120px 140px 0 120px;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.escudo3 {
+    margin: 20px 20px 20px 0;
+}
+
+main {
+    background: rgb(207, 160, 160);
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+section {
+    display: flex;
+    margin: 0 20px;
+}
+
+.escudo, .morumbi, .titulos {
+    width: 400px;   
+}
+
+
+.historia {
+    font-size: 20px;
+    margin-left: 20px;   
+}
+
+.estadio {
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+    background:  rgb(207, 160, 160);
+    padding: 20px 0;
+}
+

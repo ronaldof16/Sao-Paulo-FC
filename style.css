@@ -1,5 +1,5 @@
-body {
-    margin: 0;
+* {
+    margin: 0; 
 }
 
 header {
@@ -23,13 +23,14 @@ h1 {
 }
 
 main {
-    background: rgb(207, 160, 160);
+    background:  rgb(240, 133, 126);
 }
 
 h2 {
     text-align: center;
     font-size: 25px;
     text-transform: uppercase;
+    padding: 40px 0;
 }
 
 section {
@@ -58,7 +59,7 @@ ul {
 
 footer {
     text-align: center;
-    background:  rgb(207, 160, 160);
-    padding: 20px 0;
+    padding: 10px 0;
+    background: rgb(240, 133, 126);
 }
 
